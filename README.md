@@ -19,7 +19,7 @@ This project fetches skip data from a live API and displays options with custom 
 
 ```sh
 git clone https://github.com/soresagetachew/soraprogrammer.git
-cd skip-size-redesign
+cd soraprogrammer
 ```
 
 ### 2. Install dependencies

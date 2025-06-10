@@ -18,7 +18,7 @@ This project fetches skip data from a live API and displays options with custom 
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/soresagetachew/wewantwest.git
+git clone https://github.com/soresagetachew/soraprogrammer.git
 cd skip-size-redesign
 ```
 
